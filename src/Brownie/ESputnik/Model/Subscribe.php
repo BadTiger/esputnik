@@ -95,8 +95,8 @@ class Subscribe
 
         if ($this->getGroups()) {
             $data[$this->getGroups()->getKeyName()] = array_map(
-                function (Group $group) {
-                    return $group->getName();
+                function ($group) {
+                    return $group['name'];
                 }, $this->getGroups()->toArray()
             );
         }
