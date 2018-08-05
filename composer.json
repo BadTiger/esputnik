@@ -1,10 +1,10 @@
 {
-    "name": "ossbrownie/esputnik",
+    "name": "BadTiger/esputnik",
     "description": "Marketing automation system ESputnik.",
     "license": "MIT",
     "type": "library",
     "keywords": ["brownie", "esputnik"],
-    "homepage": "https://github.com/ossbrownie/esputnik",
+    "homepage": "https://github.com/BadTiger/esputnik",
     "version": "0.1.2",
     "authors": [
         {
