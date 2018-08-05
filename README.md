@@ -1,11 +1,6 @@
 ESputnik
 ========
 
-[![Latest Stable Version](https://poser.pugx.org/ossbrownie/esputnik/v/stable)](https://packagist.org/packages/ossbrownie/esputnik)
-[![Total Downloads](https://poser.pugx.org/ossbrownie/esputnik/downloads)](https://packagist.org/packages/ossbrownie/esputnik)
-[![Latest Unstable Version](https://poser.pugx.org/ossbrownie/esputnik/v/unstable)](https://packagist.org/packages/ossbrownie/esputnik)
-[![License](https://poser.pugx.org/ossbrownie/esputnik/license)](https://packagist.org/packages/ossbrownie/esputnik)
-
 Marketing automation system ESputnik.
 
 ## curl
